@@ -1,2 +1,2 @@
 # Cpp-Project
-All C++ Project
+All Cpp Project
